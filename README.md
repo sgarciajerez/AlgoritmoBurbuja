@@ -2,7 +2,7 @@
 
 _Pequeño Proyecto de JavaScript_
 
-##Explicación ✅
+## Explicación ✅
 
 Dado el siguiente Array, vamos a crear una función que utilice un algoritmo de ordenado Burbuja
 Con este algoritmo lo que pretendemos es ordenar nuestro Array de menor a mayor empezando a comparar desde la última posición de nuestro arreglo
